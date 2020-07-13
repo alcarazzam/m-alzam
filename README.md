@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 📝 Writting on [SeviLinux](https://sevilinux.es)
+- 🔭 Creting a new CMS - cooming soon!
+
 <!--
 **m-alzam/m-alzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
